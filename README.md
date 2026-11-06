@@ -2,10 +2,6 @@
 
 <br>
 
-<img src="terminal.svg" alt="Terminal: igor-oliveira, desenvolvimento de sistemas, com foco em backend, banco de dados e segurança da informação." width="100%">
-
-<br>
-
 Olá, eu sou o Igor.
 
 Desenvolvo backend e bancos de dados com atenção especial à segurança. No **ASPEN CORE**, plataforma de segurança digital com chaves de acesso físicas, trabalho em equipe cuidando da API, da autenticação, dos pagamentos e da integração com o hardware.
@@ -47,6 +43,8 @@ Para conversar, me chame no [LinkedIn](https://linkedin.com/in/igoroliveira-dev)
 <img src="divider.svg" alt="" width="100%">
 
 ## Em que estou trabalhando
+
+<img src="terminal.svg" alt="Terminal: igor-oliveira, desenvolvimento de sistemas, com foco em backend, banco de dados e segurança da informação." width="100%">
 
 <details open>
 <summary><b>ASPEN CORE</b></summary>
