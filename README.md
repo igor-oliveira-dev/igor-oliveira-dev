@@ -1,4 +1,4 @@
-<img src="hero.svg" alt="Igor Oliveira. Construo sistemas que protegem, autenticam, integram e guardam dados." width="100%">
+<img src="cabecalho.svg" alt="Igor Oliveira. Construo sistemas que protegem, autenticam, integram e guardam dados." width="100%">
 
 <br>
 
@@ -44,7 +44,7 @@ Para conversar, me chame no [LinkedIn](https://linkedin.com/in/igoroliveira-dev)
 
 ## Em que estou trabalhando
 
-<img src="terminal.svg" alt="Terminal: igor-oliveira, desenvolvimento de sistemas, com foco em backend, banco de dados e segurança da informação." width="100%">
+<img src="terminal-perfil.svg" alt="Resumo do perfil: Igor Oliveira, backend, banco de dados e segurança da informação, projeto ASPEN CORE, stack e formação." width="100%">
 
 <details open>
 <summary><b>ASPEN CORE</b></summary>
