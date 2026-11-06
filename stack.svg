@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 448" width="1200" height="448" role="img" aria-label="Tecnologias que utilizo, por área">
+  <style>
+    .panel { fill: #0F1115; stroke: #2B2B2F; stroke-width: 1.5; }
+    .lab { font: 700 13px 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: 2.5px; fill: #FF4750; }
+    .chip { fill: #1A1C21; stroke: #34363D; stroke-width: 1; }
+    .txt { font: 500 15px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #FFFFFF; }
+    .sep { stroke: #23252B; stroke-width: 1; }
+  </style>
+  <rect x="1" y="1" width="1198" height="446" rx="14" class="panel"/>
+  <text x="40" y="57" class="lab">BACKEND</text>
+  <rect x="250" y="34" width="68" height="34" rx="8" class="chip"/>
+  <text x="284" y="56" text-anchor="middle" class="txt">Java</text>
+  <rect x="330" y="34" width="120" height="34" rx="8" class="chip"/>
+  <text x="390" y="56" text-anchor="middle" class="txt">JavaScript</text>
+  <rect x="462" y="34" width="94" height="34" rx="8" class="chip"/>
+  <text x="509" y="56" text-anchor="middle" class="txt">Node.js</text>
+  <rect x="568" y="34" width="94" height="34" rx="8" class="chip"/>
+  <text x="615" y="56" text-anchor="middle" class="txt">Express</text>
+  <line x1="40" y1="80" x2="1160" y2="80" class="sep"/>
+  <text x="40" y="115" class="lab">INTEGRAÇÕES</text>
+  <rect x="250" y="92" width="266" height="34" rx="8" class="chip"/>
+  <text x="383" y="114" text-anchor="middle" class="txt">Mercado Pago (Pix e cartão)</text>
+  <rect x="528" y="92" width="171" height="34" rx="8" class="chip"/>
+  <text x="614" y="114" text-anchor="middle" class="txt">Login com Google</text>
+  <rect x="711" y="92" width="197" height="34" rx="8" class="chip"/>
+  <text x="810" y="114" text-anchor="middle" class="txt">2FA por link mágico</text>
+  <line x1="40" y1="138" x2="1160" y2="138" class="sep"/>
+  <text x="40" y="173" class="lab">DADOS E NUVEM</text>
+  <rect x="250" y="150" width="77" height="34" rx="8" class="chip"/>
+  <text x="288" y="172" text-anchor="middle" class="txt">MySQL</text>
+  <rect x="339" y="150" width="145" height="34" rx="8" class="chip"/>
+  <text x="412" y="172" text-anchor="middle" class="txt">Firebase Auth</text>
+  <rect x="496" y="150" width="111" height="34" rx="8" class="chip"/>
+  <text x="552" y="172" text-anchor="middle" class="txt">Firestore</text>
+  <line x1="40" y1="196" x2="1160" y2="196" class="sep"/>
+  <text x="40" y="231" class="lab">WEB</text>
+  <rect x="250" y="208" width="68" height="34" rx="8" class="chip"/>
+  <text x="284" y="230" text-anchor="middle" class="txt">HTML</text>
+  <rect x="330" y="208" width="59" height="34" rx="8" class="chip"/>
+  <text x="360" y="230" text-anchor="middle" class="txt">CSS</text>
+  <rect x="401" y="208" width="120" height="34" rx="8" class="chip"/>
+  <text x="461" y="230" text-anchor="middle" class="txt">JavaScript</text>
+  <line x1="40" y1="254" x2="1160" y2="254" class="sep"/>
+  <text x="40" y="289" class="lab">SEGURANÇA</text>
+  <rect x="250" y="266" width="137" height="34" rx="8" class="chip"/>
+  <text x="318" y="288" text-anchor="middle" class="txt">Autenticação</text>
+  <rect x="399" y="266" width="68" height="34" rx="8" class="chip"/>
+  <text x="433" y="288" text-anchor="middle" class="txt">LGPD</text>
+  <rect x="479" y="266" width="77" height="34" rx="8" class="chip"/>
+  <text x="518" y="288" text-anchor="middle" class="txt">Redes</text>
+  <rect x="568" y="266" width="231" height="34" rx="8" class="chip"/>
+  <text x="684" y="288" text-anchor="middle" class="txt">Segurança da informação</text>
+  <line x1="40" y1="312" x2="1160" y2="312" class="sep"/>
+  <text x="40" y="347" class="lab">HARDWARE</text>
+  <rect x="250" y="324" width="77" height="34" rx="8" class="chip"/>
+  <text x="288" y="346" text-anchor="middle" class="txt">ESP32</text>
+  <rect x="339" y="324" width="111" height="34" rx="8" class="chip"/>
+  <text x="394" y="346" text-anchor="middle" class="txt">ATECC608B</text>
+  <line x1="40" y1="370" x2="1160" y2="370" class="sep"/>
+  <text x="40" y="405" class="lab">FERRAMENTAS</text>
+  <rect x="250" y="382" width="59" height="34" rx="8" class="chip"/>
+  <text x="280" y="404" text-anchor="middle" class="txt">Git</text>
+  <rect x="321" y="382" width="85" height="34" rx="8" class="chip"/>
+  <text x="364" y="404" text-anchor="middle" class="txt">GitHub</text>
+  <rect x="418" y="382" width="188" height="34" rx="8" class="chip"/>
+  <text x="512" y="404" text-anchor="middle" class="txt">Visual Studio Code</text>
+  <rect x="618" y="382" width="102" height="34" rx="8" class="chip"/>
+  <text x="669" y="404" text-anchor="middle" class="txt">IntelliJ</text>
+</svg>

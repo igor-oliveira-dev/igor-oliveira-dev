@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Igor Oliveira. Backend, dados e segurança.">
+  <style>
+    .bg { fill: #0B0B0C; stroke: #2B2B2F; stroke-width: 1.5; }
+    .name { font: 700 66px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #FFFFFF; letter-spacing: -1px; }
+    .role { font: 500 22px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #B5B5B8; letter-spacing: 1px; }
+    .lead { font: 500 34px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #FFFFFF; }
+    .accent { font: italic 400 92px Georgia, 'Times New Roman', serif; fill: #FF4750; }
+    .bar { fill: #D7191F; }
+    .grid { stroke: #1B1B1E; stroke-width: 1; }
+  </style>
+  <rect x="1" y="1" width="1198" height="298" rx="18" class="bg"/>
+  <g>
+    <line x1="0" y1="75" x2="1200" y2="75" class="grid"/>
+    <line x1="0" y1="150" x2="1200" y2="150" class="grid"/>
+    <line x1="0" y1="225" x2="1200" y2="225" class="grid"/>
+  </g>
+  <rect x="1" y="1" width="12" height="298" rx="6" class="bar"/>
+  <text x="70" y="152" class="name">Igor Oliveira</text>
+  <text x="72" y="196" class="role">Desenvolvimento de Sistemas</text>
+  <rect x="610" y="70" width="3" height="160" class="bar"/>
+  <text x="654" y="130" class="lead">Backend, dados e</text>
+  <text x="652" y="224" class="accent">segurança.</text>
+</svg>
