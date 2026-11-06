@@ -4,7 +4,7 @@
 
 Olá, eu sou o Igor.
 
-Desenvolvo backend e bancos de dados com atenção especial à segurança. No **ASPEN CORE**, plataforma de segurança digital com chaves de acesso físicas, trabalho em equipe cuidando da API, da autenticação, dos pagamentos e da integração com o hardware.
+Desenvolvo backend e bancos de dados com atenção especial à segurança. No **ASPEN CORE**, meu projeto de plataforma de segurança digital com chaves de acesso físicas, trabalho em equipe cuidando da API, da autenticação, dos pagamentos e da integração com o hardware.
 
 <img src="divider.svg" alt="" width="100%">
 
