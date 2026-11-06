@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-label="Tecnologias que utilizo, por área">
+  <title>Tecnologias que utilizo, por área</title>
+  <style>
+    .panel { fill: #0F1115; stroke: #2B2B2F; stroke-width: 1.5; }
+    .cat { font: 700 14px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #0B0B0C; }
+    .mk { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; }
+    .lb { font: 500 13px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #B5B5B8; }
+    .sep { stroke: #23252B; stroke-width: 1; }
+    .gl { fill: #FFFFFF; opacity: 0; animation: brilho 9s infinite both; }
+    .t { animation: sobe 9s infinite both; }
+    @keyframes sobe {
+      0%   { transform: translateY(0); }
+      2.5% { transform: translateY(-4px); }
+      6%   { transform: translateY(0); }
+      100% { transform: translateY(0); }
+    }
+    @keyframes brilho {
+      0%   { opacity: 0; }
+      2.5% { opacity: 0.3; }
+      6%   { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .t, .gl { animation: none; }
+    }
+  </style>
+  <rect x="1" y="1" width="1198" height="558" rx="14" class="panel"/>
+  <rect x="40" y="43" width="200" height="30" rx="15" fill="#FF6B6B"/>
+  <text x="140" y="63" text-anchor="middle" class="cat">Backend</text>
+  <g class="t" style="animation-delay:0.00s">
+    <rect x="300" y="30" width="56" height="56" rx="12" fill="#E76F00"/>
+    <rect x="300" y="30" width="56" height="56" rx="12" class="gl" style="animation-delay:0.00s"/>
+    <text x="328" y="66" text-anchor="middle" class="mk" font-size="22" fill="#FFFFFF">J</text>
+    <text x="328" y="106" text-anchor="middle" class="lb">Java</text>
+  </g>
+  <g class="t" style="animation-delay:0.22s">
+    <rect x="416" y="30" width="56" height="56" rx="12" fill="#F7DF1E"/>
+    <rect x="416" y="30" width="56" height="56" rx="12" class="gl" style="animation-delay:0.22s"/>
+    <text x="444" y="66" text-anchor="middle" class="mk" font-size="22" fill="#0B0B0C">JS</text>
+    <text x="444" y="106" text-anchor="middle" class="lb">JavaScript</text>
+  </g>
+  <g class="t" style="animation-delay:0.44s">
+    <rect x="532" y="30" width="56" height="56" rx="12" fill="#3C873A"/>
+    <rect x="532" y="30" width="56" height="56" rx="12" class="gl" style="animation-delay:0.44s"/>
+    <text x="560" y="66" text-anchor="middle" class="mk" font-size="22" fill="#FFFFFF">N</text>
+    <text x="560" y="106" text-anchor="middle" class="lb">Node.js</text>
+  </g>
+  <g class="t" style="animation-delay:0.66s">
+    <rect x="648" y="30" width="56" height="56" rx="12" fill="#34363D"/>
+    <rect x="648" y="30" width="56" height="56" rx="12" class="gl" style="animation-delay:0.66s"/>
+    <text x="676" y="66" text-anchor="middle" class="mk" font-size="22" fill="#FFFFFF">ex</text>
+    <text x="676" y="106" text-anchor="middle" class="lb">Express</text>
+  </g>
+  <g class="t" style="animation-delay:0.88s">
+    <rect x="764" y="30" width="56" height="56" rx="12" fill="#00A6E0"/>
+    <rect x="764" y="30" width="56" height="56" rx="12" class="gl" style="animation-delay:0.88s"/>
+    <text x="792" y="66" text-anchor="middle" class="mk" font-size="22" fill="#FFFFFF">MP</text>
+    <text x="792" y="106" text-anchor="middle" class="lb">Mercado Pago</text>
+  </g>
+  <line x1="40" y1="120" x2="1160" y2="120" class="sep"/>
+  <rect x="40" y="151" width="200" height="30" rx="15" fill="#FF9F5B"/>
+  <text x="140" y="171" text-anchor="middle" class="cat">Web</text>
+  <g class="t" style="animation-delay:0.90s">
+    <rect x="300" y="138" width="56" height="56" rx="12" fill="#E34F26"/>
+    <rect x="300" y="138" width="56" height="56" rx="12" class="gl" style="animation-delay:0.90s"/>
+    <text x="328" y="174" text-anchor="middle" class="mk" font-size="22" fill="#FFFFFF">5</text>
+    <text x="328" y="214" text-anchor="middle" class="lb">HTML</text>
+  </g>
+  <g class="t" style="animation-delay:1.12s">
+    <rect x="416" y="138" width="56" height="56" rx="12" fill="#1572B6"/>
+    <rect x="416" y="138" width="56" height="56" rx="12" class="gl" style="animation-delay:1.12s"/>
+    <text x="444" y="174" text-anchor="middle" class="mk" font-size="22" fill="#FFFFFF">3</text>
+    <text x="444" y="214" text-anchor="middle" class="lb">CSS</text>
+  </g>
+  <g class="t" style="animation-delay:1.34s">
+    <rect x="532" y="138" width="56" height="56" rx="12" fill="#F7DF1E"/>
+    <rect x="532" y="138" width="56" height="56" rx="12" class="gl" style="animation-delay:1.34s"/>
+    <text x="560" y="174" text-anchor="middle" class="mk" font-size="22" fill="#0B0B0C">JS</text>
+    <text x="560" y="214" text-anchor="middle" class="lb">JavaScript</text>
+  </g>
+  <line x1="40" y1="228" x2="1160" y2="228" class="sep"/>
+  <rect x="40" y="259" width="200" height="30" rx="15" fill="#FFCB5B"/>
+  <text x="140" y="279" text-anchor="middle" class="cat">Dados e nuvem</text>
+  <g class="t" style="animation-delay:1.80s">
+    <rect x="300" y="246" width="56" height="56" rx="12" fill="#00758F"/>
+    <rect x="300" y="246" width="56" height="56" rx="12" class="gl" style="animation-delay:1.80s"/>
+    <text x="328" y="280" text-anchor="middle" class="mk" font-size="17" fill="#FFFFFF">SQL</text>
+    <text x="328" y="322" text-anchor="middle" class="lb">MySQL</text>
+  </g>
+  <g class="t" style="animation-delay:2.02s">
+    <rect x="416" y="246" width="56" height="56" rx="12" fill="#FFA000"/>
+    <rect x="416" y="246" width="56" height="56" rx="12" class="gl" style="animation-delay:2.02s"/>
+    <text x="444" y="282" text-anchor="middle" class="mk" font-size="22" fill="#0B0B0C">Fb</text>
+    <text x="444" y="322" text-anchor="middle" class="lb">Firebase</text>
+  </g>
+  <g class="t" style="animation-delay:2.24s">
+    <rect x="532" y="246" width="56" height="56" rx="12" fill="#F57C00"/>
+    <rect x="532" y="246" width="56" height="56" rx="12" class="gl" style="animation-delay:2.24s"/>
+    <text x="560" y="282" text-anchor="middle" class="mk" font-size="22" fill="#FFFFFF">Fs</text>
+    <text x="560" y="322" text-anchor="middle" class="lb">Firestore</text>
+  </g>
+  <line x1="40" y1="336" x2="1160" y2="336" class="sep"/>
+  <rect x="40" y="367" width="200" height="30" rx="15" fill="#FF8FB1"/>
+  <text x="140" y="387" text-anchor="middle" class="cat">Segurança e hardware</text>
+  <g class="t" style="animation-delay:2.70s">
+    <rect x="300" y="354" width="56" height="56" rx="12" fill="#D7191F"/>
+    <rect x="300" y="354" width="56" height="56" rx="12" class="gl" style="animation-delay:2.70s"/>
+    <text x="328" y="388" text-anchor="middle" class="mk" font-size="17" fill="#FFFFFF">2FA</text>
+    <text x="328" y="430" text-anchor="middle" class="lb">2FA</text>
+  </g>
+  <g class="t" style="animation-delay:2.92s">
+    <rect x="416" y="354" width="56" height="56" rx="12" fill="#3B3F4A"/>
+    <rect x="416" y="354" width="56" height="56" rx="12" class="gl" style="animation-delay:2.92s"/>
+    <text x="444" y="387" text-anchor="middle" class="mk" font-size="13" fill="#FFFFFF">LGPD</text>
+    <text x="444" y="430" text-anchor="middle" class="lb">LGPD</text>
+  </g>
+  <g class="t" style="animation-delay:3.14s">
+    <rect x="532" y="354" width="56" height="56" rx="12" fill="#C62828"/>
+    <rect x="532" y="354" width="56" height="56" rx="12" class="gl" style="animation-delay:3.14s"/>
+    <text x="560" y="388" text-anchor="middle" class="mk" font-size="17" fill="#FFFFFF">ESP</text>
+    <text x="560" y="430" text-anchor="middle" class="lb">ESP32</text>
+  </g>
+  <g class="t" style="animation-delay:3.36s">
+    <rect x="648" y="354" width="56" height="56" rx="12" fill="#3B3F4A"/>
+    <rect x="648" y="354" width="56" height="56" rx="12" class="gl" style="animation-delay:3.36s"/>
+    <text x="676" y="388" text-anchor="middle" class="mk" font-size="17" fill="#FFFFFF">ATE</text>
+    <text x="676" y="430" text-anchor="middle" class="lb">ATECC608B</text>
+  </g>
+  <line x1="40" y1="444" x2="1160" y2="444" class="sep"/>
+  <rect x="40" y="475" width="200" height="30" rx="15" fill="#E6E6E8"/>
+  <text x="140" y="495" text-anchor="middle" class="cat">Ferramentas</text>
+  <g class="t" style="animation-delay:3.60s">
+    <rect x="300" y="462" width="56" height="56" rx="12" fill="#F05032"/>
+    <rect x="300" y="462" width="56" height="56" rx="12" class="gl" style="animation-delay:3.60s"/>
+    <text x="328" y="496" text-anchor="middle" class="mk" font-size="17" fill="#FFFFFF">Git</text>
+    <text x="328" y="538" text-anchor="middle" class="lb">Git</text>
+  </g>
+  <g class="t" style="animation-delay:3.82s">
+    <rect x="416" y="462" width="56" height="56" rx="12" fill="#34363D"/>
+    <rect x="416" y="462" width="56" height="56" rx="12" class="gl" style="animation-delay:3.82s"/>
+    <text x="444" y="498" text-anchor="middle" class="mk" font-size="22" fill="#FFFFFF">GH</text>
+    <text x="444" y="538" text-anchor="middle" class="lb">GitHub</text>
+  </g>
+  <g class="t" style="animation-delay:4.04s">
+    <rect x="532" y="462" width="56" height="56" rx="12" fill="#007ACC"/>
+    <rect x="532" y="462" width="56" height="56" rx="12" class="gl" style="animation-delay:4.04s"/>
+    <text x="560" y="498" text-anchor="middle" class="mk" font-size="22" fill="#FFFFFF">VS</text>
+    <text x="560" y="538" text-anchor="middle" class="lb">VS Code</text>
+  </g>
+  <g class="t" style="animation-delay:4.26s">
+    <rect x="648" y="462" width="56" height="56" rx="12" fill="#FC318C"/>
+    <rect x="648" y="462" width="56" height="56" rx="12" class="gl" style="animation-delay:4.26s"/>
+    <text x="676" y="498" text-anchor="middle" class="mk" font-size="22" fill="#FFFFFF">IJ</text>
+    <text x="676" y="538" text-anchor="middle" class="lb">IntelliJ</text>
+  </g>
+</svg>
