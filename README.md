@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" alt="Igor Oliveira. Backend, dados e segurança." width="100%">
+<img src="hero.svg" alt="Igor Oliveira. Backend, dados e segurança." width="100%">
 
 <br>
 
@@ -11,7 +11,7 @@ Desenvolvo backend e bancos de dados com atenção especial à segurança. No **
 <table>
   <tr>
     <td width="42%" valign="top">
-      <img src="assets/aspen-arquitetura.svg" alt="Arquitetura do ASPEN CORE" width="100%">
+      <img src="aspen-arquitetura.svg" alt="Arquitetura do ASPEN CORE" width="100%">
     </td>
     <td valign="top">
       <b>ASPEN CORE</b><br>
@@ -50,7 +50,7 @@ O ASPEN CORE trabalha com dois modelos de chave: a **Lite**, com rastreio pelo c
 
 ## Pilha
 
-<img src="assets/stack.svg" alt="Tecnologias que utilizo, por área" width="100%">
+<img src="stack.svg" alt="Tecnologias que utilizo, por área" width="100%">
 
 ## O que me interessa
 
