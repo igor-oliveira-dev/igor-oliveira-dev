@@ -1,72 +1,66 @@
-<h1 align="center">Igor Oliveira</h1>
+<img src="assets/hero.svg" alt="Igor Oliveira. Backend, dados e segurança." width="100%">
 
-<p align="center">
-  Desenvolvimento de Sistemas &nbsp;·&nbsp; Backend &nbsp;·&nbsp; Cibersegurança
-</p>
+<br>
 
-<p align="center">
-  <a href="https://linkedin.com/in/igoroliveira-dev">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:igor.silv802@gmail.com">igor.silv802@gmail.com</a>
-  &nbsp;·&nbsp;
-  Itaquaquecetuba, SP
-</p>
+Olá, eu sou o Igor.
 
----
+Desenvolvo backend e bancos de dados com atenção especial à segurança. No **ASPEN CORE**, plataforma de segurança digital com chaves de acesso físicas, trabalho em equipe cuidando da API, da autenticação, dos pagamentos e da integração com o hardware.
 
-## Sobre
+## Projetos em destaque
 
-Desenvolvo sistemas com foco em backend, banco de dados e segurança da informação. Trabalho principalmente com Java, JavaScript e Node.js, e tenho interesse em autenticação e proteção de dados.
+<table>
+  <tr>
+    <td width="42%" valign="top">
+      <img src="assets/aspen-arquitetura.svg" alt="Arquitetura do ASPEN CORE" width="100%">
+    </td>
+    <td valign="top">
+      <b>ASPEN CORE</b><br>
+      Plataforma de segurança digital que reduz a dependência de senhas, com chaves de acesso físicas (Lite e Pro). Inclui loja com planos e combos, painel administrativo, mapa de localização das chaves, login com Google, 2FA por link mágico e adequação à LGPD. Pagamentos com Mercado Pago (Pix e cartão), com avisos e controle de inadimplência.
+      <br><br>
+      <sub>Node.js · Express · Firebase · JavaScript · Mercado Pago · ESP32 · ATECC608B</sub>
+      <br>
+      Em desenvolvimento · repositório privado
+    </td>
+  </tr>
+  <tr>
+    <td width="42%" valign="top">
+      <b><a href="https://github.com/igor-oliveira-dev/IGECH-TECH">IGECH TECH</a></b>
+    </td>
+    <td valign="top">
+      Aplicação web com integração a banco de dados, desenvolvida durante o curso técnico.
+      <br><br>
+      <sub>JavaScript · MySQL · HTML · CSS</sub>
+      <br>
+      <a href="https://github.com/igor-oliveira-dev/IGECH-TECH">Código</a>
+    </td>
+  </tr>
+</table>
 
-Técnico em Desenvolvimento de Sistemas pela ETEC de Itaquaquecetuba, com conclusão prevista para dezembro de 2026.
+Para conversar, me chame no [LinkedIn](https://linkedin.com/in/igoroliveira-dev) ou por [e-mail](mailto:igor.silv802@gmail.com).
 
----
+## Em que estou trabalhando
 
-## Projetos
+<details open>
+<summary><b>ASPEN CORE</b></summary>
+<br>
 
-### ASPEN CORE
+O ASPEN CORE trabalha com dois modelos de chave: a **Lite**, com rastreio pelo celular, e a **Pro**, com hardware dedicado. Atuo no software (API, banco de dados, pagamentos, autenticação e testes) e na integração com o hardware. O firmware da chave Lite, baseado em ESP32 com chip ATECC608B, está em fase de testes.
 
-Plataforma de segurança digital com chaves de acesso físicas, desenvolvida em equipe como trabalho de conclusão de curso.
+</details>
 
-- API em Node.js e Express, com Firebase (Auth e Firestore)
-- Pagamentos com Mercado Pago (Pix e cartão), com avisos e controle de inadimplência
-- Login com Google, autenticação em dois fatores por link mágico e adequação à LGPD
-- Loja com planos e combos, painel administrativo e mapa de localização das chaves
-- Hardware: chave Lite com ESP32 e chip criptográfico ATECC608B, em fase de testes
+## Pilha
 
-Situação: em desenvolvimento. Repositório privado.
+<img src="assets/stack.svg" alt="Tecnologias que utilizo, por área" width="100%">
 
-### [IGECH TECH](https://github.com/igor-oliveira-dev/IGECH-TECH)
+## O que me interessa
 
-Aplicação web com integração a banco de dados, desenvolvida durante o curso técnico.
+Segurança da informação, autenticação sem senha, backend e integração entre software e hardware.
 
-Tecnologias: JavaScript, MySQL, HTML e CSS.
+## Formação e certificações
 
----
-
-## Tecnologias
-
-| Área | Tecnologias |
-|:--|:--|
-| Linguagens | `Java` `JavaScript` |
-| Web e backend | `HTML` `CSS` `Node.js` `Express` |
-| Banco de dados e nuvem | `MySQL` `Firebase` |
-| Ferramentas | `Git` `GitHub` `Visual Studio Code` `IntelliJ` |
-| Segurança | Redes, cibersegurança e segurança da informação |
-
----
-
-## Certificações
-
-| Certificação | Instituição | Ano |
+| | Instituição | Ano |
 |:--|:--|:--:|
+| Técnico em Desenvolvimento de Sistemas | ETEC de Itaquaquecetuba | Conclusão em 12/2026 |
 | Java Fundamentals | SENAI / Oracle | 2025 |
 | BluePex Essentials (Redes) | BluePex Cybersecurity | 2026 |
 | BluePex Cybersecurity Framework | BluePex Cybersecurity | 2026 |
-
----
-
-## Contato
-
-- LinkedIn: [linkedin.com/in/igoroliveira-dev](https://linkedin.com/in/igoroliveira-dev)
-- E-mail: igor.silv802@gmail.com
