@@ -1,10 +1,16 @@
-<img src="hero.svg" alt="Igor Oliveira. Backend, dados e segurança." width="100%">
+<img src="hero.svg" alt="Igor Oliveira. Construo sistemas que protegem, autenticam, integram e guardam dados." width="100%">
+
+<br>
+
+<img src="terminal.svg" alt="Terminal: igor-oliveira, desenvolvimento de sistemas, com foco em backend, banco de dados e segurança da informação." width="100%">
 
 <br>
 
 Olá, eu sou o Igor.
 
 Desenvolvo backend e bancos de dados com atenção especial à segurança. No **ASPEN CORE**, plataforma de segurança digital com chaves de acesso físicas, trabalho em equipe cuidando da API, da autenticação, dos pagamentos e da integração com o hardware.
+
+<img src="divider.svg" alt="" width="100%">
 
 ## Projetos em destaque
 
@@ -38,6 +44,8 @@ Desenvolvo backend e bancos de dados com atenção especial à segurança. No **
 
 Para conversar, me chame no [LinkedIn](https://linkedin.com/in/igoroliveira-dev) ou por [e-mail](mailto:igor.silv802@gmail.com).
 
+<img src="divider.svg" alt="" width="100%">
+
 ## Em que estou trabalhando
 
 <details open>
@@ -48,13 +56,19 @@ O ASPEN CORE trabalha com dois modelos de chave: a **Lite**, com rastreio pelo c
 
 </details>
 
+<img src="divider.svg" alt="" width="100%">
+
 ## Pilha
 
 <img src="stack.svg" alt="Tecnologias que utilizo, por área" width="100%">
 
+<img src="divider.svg" alt="" width="100%">
+
 ## O que me interessa
 
 Segurança da informação, autenticação sem senha, backend e integração entre software e hardware.
+
+<img src="divider.svg" alt="" width="100%">
 
 ## Formação e certificações
 
